@@ -1,5 +1,5 @@
 # Lab1
-Create a GitHub repository for the project. 
+<p> Create a GitHub repository for the project. </p>
 Create a few issues (3 Issues per student) and assign those issues to each other.
 For your project, you should enable GitHub pages and make a very simple one-page website about your project. (Don't bother wasting time on the layout and styles of the web page)
 Add your first commit to your project by creating a new file (If done in pairs: each team member will make commits such as creating a file and writing some random code)
