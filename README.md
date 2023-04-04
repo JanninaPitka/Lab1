@@ -18,3 +18,4 @@
 <p>Use the Release Drafter GitHub app to help with release notes.</p>
 <p>Merge the configuration file for Release Drafter to set a template for the release.</p>
 <p>Merge the release branch into the main and finalize the release.</p>
+<p> Kuvaa video työstä</p>
